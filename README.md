@@ -1,1 +1,1 @@
-# Facial-Detection-using-Deep-Learning
+# Facial-Recognition-using-Deep-Learning
